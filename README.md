@@ -1,6 +1,8 @@
 # javacollectionsmethods
 interviewpoints
 ///////program Collections in list
+
+
 package manipulation;
 import java.time.LocalDate;
 import java.util.*;
