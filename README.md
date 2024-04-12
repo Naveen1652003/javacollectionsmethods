@@ -4,6 +4,24 @@ interviewpoints
 ////POJO CLASS IN JAVA-------------------------------------------------
 package manipulation;
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 public class LibDetails {
  	String studentName;
 	int studentId;
