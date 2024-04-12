@@ -1,6 +1,39 @@
 # javacollectionsmethods
 interviewpoints
 ///////program Collections in list
+////POJO CLASS IN JAVA-------------------------------------------------
+package manipulation;
+
+public class LibDetails {
+ 	String studentName;
+	int studentId;
+	String bookReceivedDate;
+	String bookName;
+	public String getStudentName() {
+		return studentName;
+	}
+	public void setStudentName(String studentName) {
+		this.studentName = studentName;
+	}
+	public int getStudentId() {
+		return studentId;
+	}
+	public void setStudentId(int studentId) {
+		this.studentId = studentId;
+	}
+	public String getBookReceivedDate() {
+		return bookReceivedDate;
+	}
+	public void setBookReceivedDate(String bookReceivedDate) {
+		this.bookReceivedDate = bookReceivedDate;
+	}
+	public String getBookName() {
+		return bookName;
+	}
+	public void setBookName(String bookName) {
+		this.bookName = bookName;
+	}
+}
 
 
 package manipulation;
